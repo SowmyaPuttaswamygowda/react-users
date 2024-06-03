@@ -1,0 +1,12 @@
+header {
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgb(97 110 128);
+    width: 100%;
+    text-align: center;
+    height: 150px;
+    align-items: center;
+    display: flex;
+    font-size: 45px;
+    color: #5b2d4b;
+}
